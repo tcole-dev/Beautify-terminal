@@ -57,9 +57,9 @@ Install-Module posh-git -Scope CurrentUser
 
 ### 设置默认终端
 
-终端页按 `Ctrl + ,`
+终端页按 `Ctrl + ,` 选择默认终端应用程序
 
-![](https://raw.githubusercontent.com/tcole-dev/LearningNotes/master/img/QQ20260423-014505.png) 
+![](https://raw.githubusercontent.com/tcole-dev/LearningNotes/master/img/QQ20260423-011607.png) 
 
 powershell 7版本的图标是黑底白字，而不是 win 11、win 10自带的powershell 5的蓝底白字。
 
